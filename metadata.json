@@ -1,0 +1,6 @@
+{
+  "name": "Valley Trader",
+  "description": "An economic farming and village management game focused on trading and market dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
